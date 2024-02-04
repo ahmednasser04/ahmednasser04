@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Nasser</h1>
 <h3 align="center">A passionate student/software engineer from Egypt</h3>
 
-- 🔭 I’m currently a student Computer Science and Software engineering at **Shorouk Academy**
+- 🔭 I’m currently a CS and software engineering student at **Shorouk Academy**
 
 - 🌱 I’m currently learning **Databases, Net Framework, Algorithms, Software engineering**
 
