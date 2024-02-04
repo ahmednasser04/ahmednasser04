@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Databases, Net Framework, Algorithms, Software engineering**
 
-- 📝 I regularly write articles on [LinkedIn]([LinkedIn](https://www.linkedin.com/in/ahmed-nasser-194350255))
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/ahmed-nasser-194350255)
 
 - 📫 How to reach me **ahmednasser0473@gmail.com**
 
-- 📄 Know about my experiences [LinkedIn]([LinkedIn](https://www.linkedin.com/in/ahmed-nasser-194350255))
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/ahmed-nasser-194350255)
 
 - ⚡ Fun fact **Learning is not that much boring**
 
