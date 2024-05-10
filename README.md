@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently a CS and software engineering student at **Shorouk Academy**
 
-- 🌱 I’m currently learning **Databases, Net Framework, Algorithms, Software engineering**
-
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/ahmed-nasser-194350255)
 
 - 📫 How to reach me **ahmednasser0473@gmail.com**
